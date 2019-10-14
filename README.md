@@ -31,6 +31,8 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
 
 - Date of the Event
 
+![concert](concerts.png)
+
 #
 
 ### node liri.js spotify-this-song _(SONG TITLE HERE)_
@@ -41,6 +43,8 @@ This will search the Spotify API for song title information. We are also using a
 - The song's name
 - A preview link of the song from Spotify
 - The album that the song is from
+
+![song](titlesong.png)
 
 #
 
@@ -57,12 +61,16 @@ This will search the The IMDB API for specific movie information. This command w
 - Plot of the movie.
 - Actors in the movie.
 
+![movie](Movie.png)
+
 #
 
 ### node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
+![dowhat](Dowhatitsays.png)
+
 #
 
-![screenshot place holder](IMG_6563.PN)
+
